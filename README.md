@@ -6,4 +6,4 @@ If you use Py2ONTO, please cite our paper:
 
 **English reference:**
 
-Wang Z, Yang S, Zhu Y, et al.  Py2ONTO: a python-based tool for ontology development. *Chinese Journal of Medical Library and Information Science*. 2023;31(9):42–50. (in Chinese).
+Wang Z, Yang S, Zhu Y, et al.  Py2ONTO: a python-based tool for ontology development[J]. *Chinese Journal of Medical Library and Information Science*. 2023;31(9):42–50. (in Chinese).
