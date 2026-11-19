@@ -1,6 +1,6 @@
 <a href="https://github.com/MedportalProject/Py2ONTO">
  <p align="center">
-   <img src="https://github.com/MedportalProject/Py2ONTO/blob/main/logo/logo2.png" alt="Logo" width="600">
+   <img src="https://github.com/MedportalProject/Py2ONTO/blob/main/logo/logo2.png" alt="Logo" width="800">
  </p>
 </a>
 
