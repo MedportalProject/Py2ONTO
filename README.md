@@ -1,3 +1,7 @@
+<a href="https://github.com/MedportalProject/Py2ONTO">
+  <img src="https://github.com/MedportalProject/Py2ONTO/blob/main/logo/py2onto.png" alt="Logo">
+</a>
+
 # Py2ONTO ontology development tool (`py2onto.py`) --- User Manual (English)
 
 > This manual covers both the **command-line interface (CLI)** and the
