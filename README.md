@@ -1,8 +1,10 @@
-<a href="https://github.com/MedportalProject/Py2ONTO">
- <div align="center">
-   <img src="https://github.com/MedportalProject/Py2ONTO/blob/main/logo/logo2.png" alt="Logo" width="700">
- </div>
-</a>
+<p align="center">
+  <a href="https://github.com/MedportalProject/Py2ONTO">
+    <img src="https://raw.githubusercontent.com/MedportalProject/Py2ONTO/main/logo/logo2.png"
+         alt="Py2ONTO Logo"
+         width="700">
+  </a>
+</p>
 
 # Py2ONTO ontology development tool (`py2onto.py`) --- User Manual (English)
 
