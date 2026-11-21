@@ -2,7 +2,7 @@
   <a href="https://github.com/MedportalProject/Py2ONTO">
     <img src="https://raw.githubusercontent.com/MedportalProject/Py2ONTO/main/logo/logo2.png"
          alt="Py2ONTO Logo"
-         width="650">
+         width="550">
   </a>
 </p>
 
